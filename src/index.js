@@ -12,7 +12,7 @@ const theme = {
     backgroundColor: '#2EE59D',
     secondaryBgcolor: '#eeeeee',
     tableHeadColor: '#7189b2',
-    message: 'red',
+    message: '#b00a0a',
   },
   boxShadow: '0 8px 15px rgba(0, 0, 0, .1);',
   boxShadowHover: '0 15px 20px rgba(46, 229, 157, .4);',
